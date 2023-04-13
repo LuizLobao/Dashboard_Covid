@@ -12,4 +12,4 @@ Instalar:
     - Pandas (pip install pandas)
     - Numpy (pip install numpy)
 =======
->>>>>>> 342a3416717a36ab7b7c2d390937367b2d135346
+
