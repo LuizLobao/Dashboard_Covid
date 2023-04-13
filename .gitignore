@@ -1,0 +1,8 @@
+*.exe
+*.pyc
+*.png
+*.zip
+segredos.py
+debug.log
+paste.png
+HIST_PAINEL_COVIDBR_13mai2021.csv
